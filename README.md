@@ -1,4 +1,4 @@
-# Isis plugin: Scheduler
+# Isis plugin: Uptime
 
 This plugin adds an uptime command to the [Isis chatbot](https://github.com/silentgrowl/isis)
 
@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 To see the Isis bot's uptime, type ```!uptime``` in chat.
+
+## Links
+
+* [isis-plugin-uptime on RubyGems](https://rubygems.org/gems/isis-plugin-uptime)
